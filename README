@@ -1,4 +1,4 @@
-Sample Logwatch write in python.
+Simple Logwatch write in python.
 
 Usage: logwatch.py [options] args
 
