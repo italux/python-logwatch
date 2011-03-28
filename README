@@ -1,1 +1,13 @@
-Sample Logwatch write in python
+Sample Logwatch write in python.
+
+Usage: logwatch.py [options] args
+
+Options:
+  -h, --help            show this help message and exit
+  -l LOGFILE, --logfile=LOGFILE
+                        Logfile to read data
+  -p LOGPOS, --logpos=LOGPOS
+                        File to store last log line read position
+  -f FINDSTRING, --find=FINDSTRING
+                        String to find in Logfile
+
