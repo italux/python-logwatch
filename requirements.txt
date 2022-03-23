@@ -6,7 +6,7 @@ click==7.1.2
 decorator==5.0.9
 idna==3.2
 importlib-metadata==3.4.0
-ipython==7.26.0
+ipython==7.31.1
 ipython-genutils==0.2.0
 jedi==0.18.0
 matplotlib-inline==0.1.2
@@ -23,7 +23,7 @@ requests==2.26.0
 ruamel.yaml==0.17.16
 ruamel.yaml.clib==0.2.6
 six==1.16.0
-slo-generator==1.5.1
+slo-generator==2.0.1
 traitlets==5.0.5
 urllib3==1.26.6
 wcwidth==0.2.5
